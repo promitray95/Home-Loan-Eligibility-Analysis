@@ -1,1 +1,1 @@
-# Home-Loan-Eligibility-Analysis
+This project uses exploratory data analysis (EDA) to uncover patterns and correlations influencing home loan eligibility. By analyzing applicant and co-applicant incomes, age, gender, property area, job type, credit history, and more, the study reveals key insights into factors affecting loan approval decisions.
